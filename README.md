@@ -12,7 +12,7 @@ This library is used to assist to generating the protocol URI of the client, and
 
 ### 2.DApp iOS SDK
 
-[iOS client SDK](https://github.com/meet-one/Client-SDK-iOS) for Client DApps.
+[iOS client SDK](https://github.com/meet-one/Client-SDK-iOS) for iOS DApps.
 
 #### Features
 - **Get EOS Account**: DApp can request EOS Authorization for an EOS Account.
@@ -22,7 +22,7 @@ This library is used to assist to generating the protocol URI of the client, and
 
 ### 3.DApp Android SDK
 
-[Android client SDK](https://github.com/meet-one/Client-SDK-Android) for Client DApps.
+[Android client SDK](https://github.com/meet-one/Client-SDK-Android) for Android DApps.
 
 #### Features
 - **Get EOS Account**: DApp can request EOS Authorization for an EOS Account.
