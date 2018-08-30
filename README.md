@@ -2,7 +2,7 @@ MEET.ONE Wallet App SDK
 ==============
 MEET.ONE Wallet App SDK  for DApps.
 
-### 1.DApp JS-Bridge SDK
+### 1.JS-Bridge SDK
 
 [The Bridge Library](https://github.com/meet-one/JS-SDK) for Web DApps.
 
@@ -12,7 +12,7 @@ This library is used to assist to generating the protocol URI of the client, and
 
 -------
 
-### 2.DApp iOS SDK
+### 2.iOS SDK
 
 [iOS client SDK](https://github.com/meet-one/Client-SDK-iOS) for iOS DApps.
 
@@ -23,7 +23,7 @@ This library is used to assist to generating the protocol URI of the client, and
 
 -------
 
-### 3.DApp Android SDK
+### 3.Android SDK
 
 [Android client SDK](https://github.com/meet-one/Client-SDK-Android) for Android DApps.
 
@@ -34,7 +34,7 @@ This library is used to assist to generating the protocol URI of the client, and
 
 -------
 
-### 4.DApp PC Web QR Code SDK(Cooperate With SouthEX)
+### 4.PC Web QR Code SDK(Cooperate With SouthEX)
 
 [SimpleWallet SDK](https://github.com/southex/SimpleWallet/blob/master/README_en.md) for PC Web DApps.
 
