@@ -33,6 +33,8 @@ This library is used to assist to generating the protocol URI of the client, and
 
 [SimpleWallet SDK](https://github.com/southex/SimpleWallet/blob/master/README_en.md) for PC Web DApps.
 
+#### Introduction
+
 SimpleWallet is a universal protocol for connecting EOS wallets and dapp.
 
 Currently, there has been rapid development of various wallet applications and dapps in EOS. However, in the actual docking process, the standards of all parties are not unified, and the docking requires much time to complete.
