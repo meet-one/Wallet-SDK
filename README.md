@@ -10,6 +10,8 @@ This library is used to assist to generating the protocol URI of the client, and
 
 [DEMO](https://meet.one/test/index.html)
 
+-------
+
 ### 2.DApp iOS SDK
 
 [iOS client SDK](https://github.com/meet-one/Client-SDK-iOS) for iOS DApps.
@@ -19,6 +21,7 @@ This library is used to assist to generating the protocol URI of the client, and
 - **EOS Transfer**: DApp can send EOS Transferation.
 - **Push EOS Transactions**: DApp can push EOS Transactions.
 
+-------
 
 ### 3.DApp Android SDK
 
@@ -28,6 +31,8 @@ This library is used to assist to generating the protocol URI of the client, and
 - **Get EOS Account**: DApp can request EOS Authorization for an EOS Account.
 - **EOS Transfer**: DApp can send EOS Transferation.
 - **Push EOS Transactions**: DApp can push EOS Transactions.
+
+-------
 
 ### 4.DApp PC Web QR Code SDK(Cooperate With SouthEX)
 
