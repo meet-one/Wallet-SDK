@@ -21,6 +21,8 @@ This library is used to assist to generating the protocol URI of the client, and
 - **EOS Transfer**: DApp can send EOS Transferation.
 - **Push EOS Transactions**: DApp can push EOS Transactions.
 
+We also support [SimpleWallet Mobile SDK](https://github.com/southex/SimpleWallet/blob/master/README_en.md) in 1.2.1 and above versions.
+
 -------
 
 ### 3.Android SDK
@@ -31,6 +33,8 @@ This library is used to assist to generating the protocol URI of the client, and
 - **Get EOS Account**: DApp can request EOS Authorization for an EOS Account.
 - **EOS Transfer**: DApp can send EOS Transferation.
 - **Push EOS Transactions**: DApp can push EOS Transactions.
+
+We also support [SimpleWallet Mobile SDK](https://github.com/southex/SimpleWallet/blob/master/README_en.md) in 1.2.1 and above versions.
 
 -------
 
