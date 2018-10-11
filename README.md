@@ -4,11 +4,7 @@ MEET.ONE Wallet App SDK  for DApps.
 
 ### 1.JS-Bridge SDK
 
-[The Bridge Library](https://github.com/meet-one/JS-SDK) for Web DApps.
-
-This library is used to assist to generating the protocol URI of the client, and encapsulates some common protocols and methods.
-
-[DEMO](https://meet.one/test/index.html)
+MEET.ONE has supported Scatter protocol from the 1.3.0 version，so you can see the [Scatter Document](https://get-scatter.com/docs/dev/setting-up-for-web-apps)
 
 -------
 
