@@ -6,6 +6,8 @@ MEET.ONE Wallet App SDK  for DApps.
 
 MEET.ONE has supported Scatter protocol from the 1.3.0 version，so you can see the [Scatter Document](https://get-scatter.com/docs/dev/setting-up-for-web-apps)
 
+[This example](https://github.com/meet-one/eos-wallet-integration) shows how to integrate with EOS wallet.
+
 #### Test In MEET.ONE 
 ![image](https://github.com/meet-one/JS-SDK/raw/master/testInMeetOne.jpg)
 
