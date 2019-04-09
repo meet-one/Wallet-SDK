@@ -8,6 +8,8 @@ MEET.ONE has supported Scatter protocol from the 1.3.0 version，so you can see 
 
 [This example](https://github.com/meet-one/eos-wallet-integration) shows how to integrate with EOS wallet.
 
+[Step-by-step guide to learning eosjs API for integration with EOSIO-based blockchains. (EOS, MEETONE, BOS)](https://github.com/meet-one/eosjs-guide)
+
 #### Test In MEET.ONE 
 ![image](https://github.com/meet-one/JS-SDK/raw/master/testInMeetOne.jpg)
 
